@@ -4,7 +4,7 @@ body {
   background: linear-gradient(to top, #f7c603, #fedb4e);
 }
 .bg {
-  background-size: 100% 100%;
+  width: 100% !important;
   height: 100vh;
   margin: 0;
   display: flex;

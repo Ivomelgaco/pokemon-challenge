@@ -1,0 +1,8 @@
+.card-container {
+  width: 350px;
+  height: 146px;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #f6f7f9;
+  margin-right: 10px;
+}

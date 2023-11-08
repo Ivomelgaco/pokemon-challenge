@@ -1,5 +1,6 @@
 import NavBar from "../../Components/NavBar";
 import MainButton from "../../Components/mainButton";
+
 import "./style.css";
 
 function Home() {
