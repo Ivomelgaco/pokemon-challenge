@@ -1,5 +1,6 @@
 import NavBar from "../../Components/NavBar";
 import MainButton from "../../Components/mainButton";
+import { Link } from "react-router-dom";
 
 import "./style.css";
 
@@ -20,7 +21,9 @@ function Home() {
         You can know the type of Pokemon, its strengths,
         <br /> disadvantages and abilities.
       </p>
-      <MainButton />
+      <Link to={"/pokedex"}>
+        <MainButton />
+      </Link>
     </div>
   );
 }

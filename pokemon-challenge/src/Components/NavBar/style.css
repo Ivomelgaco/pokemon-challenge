@@ -25,14 +25,17 @@ body {
 }
 
 .nav-link {
+  display: flex;
   text-decoration: none;
-  color: #333; /* Cor do texto da navegação */
+  color: #333;
   font-weight: bold;
   font-size: 16px;
-  transition: color 0.3s ease; /* Adicione uma transição suave de cor */
+  transition: color 0.3s ease;
+  justify-content: space-between;
+  height: 40px;
 }
 
 .active {
-  color: #000; /* Cor do texto do link ativo */
-  border-bottom: 4px solid #000; /* Adiciona a linha preta na parte inferior do link ativo */
+  color: #000;
+  border-bottom: 4px solid #000;
 }

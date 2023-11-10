@@ -33,7 +33,7 @@ function Pokedex() {
           height: "36px",
           borderStyle: "none",
           backgroundColor: "#f2f2f2",
-          marginTop: "20px", // Reduzi o marginTop
+          marginTop: "35px", // Reduzi o marginTop
           borderRadius: "15px",
           justifyContent: "center",
         }}
