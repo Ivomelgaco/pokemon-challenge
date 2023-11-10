@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <RouterProvider
       router={createBrowserRouter([
         {
-          path: "/",
+          path: "/pokemon-challenge",
           element: <Home />,
         },
         {
