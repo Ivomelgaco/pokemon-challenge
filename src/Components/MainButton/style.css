@@ -1,0 +1,12 @@
+.main-button {
+  width: 231px;
+  height: 66px;
+  background-color: #73d677;
+  border-radius: 10px;
+  border: none;
+  box-shadow: inset 0 -10px 0px rgba(26, 26, 26, 0.2);
+  font-size: 23px;
+  font-style: bold;
+  font-weight: 700;
+  color: #212121;
+}
